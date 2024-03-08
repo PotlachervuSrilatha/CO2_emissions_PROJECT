@@ -21,6 +21,7 @@ The file contains the data for this example. Here the number of variables (colum
 - fuel_consumption_hwy, Highway fuel consumption ratings, in liters per 100 kilometers.
 - fuel_consumption_comb(l/100km), the combined fuel consumption rating (55% city, 45% highway), in L/100 km.
 - fuel_consumption_comb(mpg), the combined fuel consumption rating (55% city, 45% highway), in miles per gallon (mpg).
+- co2_emissions, the tailpipe emissions of carbon dioxide for combined city and highway driving, in grams per kilometer.
 
 # Methods and Technologies used:
 
