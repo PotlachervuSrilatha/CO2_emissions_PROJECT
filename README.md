@@ -242,7 +242,7 @@ A versatile learning algorithm that can perform regression, classification, mult
 
 Random forest is an ensemble of decision trees which introduces extra randomness(that is it searches for best feature among a random subset of fatures) when growing trees instead of searching for very best feature when splitting a node.
 
-- support  Vector Machine:
+- support  Vector Regressor:
   
 SVM is also a versatile learning algo able to perform linear and non-linear classification, regression and even outlier detection. Here Linear SVM is used.
 
@@ -259,3 +259,11 @@ MAE measures the absolute distance between the real data and predicted data.
 3. R2 score:
 
 R-Square is another statistical measure which indicates how well the regression predictions approximate the real data points.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Deployment
+
+We used Random Forest for final deployment :
+![image](https://github.com/PotlachervuSrilatha/CO2_emissions_PROJECT/assets/97737090/76e40ddc-459d-4056-bd9b-6baf56bcb446)
+![image](https://github.com/PotlachervuSrilatha/CO2_emissions_PROJECT/assets/97737090/a6d30e52-4316-46bb-8e59-5b5bc05f39ee)
+
