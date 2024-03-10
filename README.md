@@ -202,33 +202,11 @@ N = Natural gas
 
 City and highway fuel consumption ratings are shown in litres per 100 kilometres (L/100 km) - the combined rating (55% city, 45% hwy) is shown in L/100 km and in miles per gallon (mpg).
 
-  # Tools Used
-  
-Python ( 3.8 version)
 
-Flask
-
-Sci-kit Learn
-
-Pandas
-
-Numpy
-
-Pickle
-
-
-
-# Methods and Technologies used:
-
-1.Exploratory Data Analysis
-
-2.Data visualisation
-
-3.Machine learning
 
 # Technologies:
 
-1.Python
+1.Python ( 3.8 version)
 
 2.Pandas, NumPy
 
@@ -237,6 +215,10 @@ Pickle
 4.Matplotlib
 
 5.Seaborn
+
+6.Flask
+
+7.Pickle
 
 # Machine learning algos used:
 
