@@ -220,6 +220,18 @@ City and highway fuel consumption ratings are shown in litres per 100 kilometres
 
 7.Pickle
 
+1.First I imported the dataset into colab and analyzed and understood the data set properly by going through some of the info like columns, info, etc.
+
+2.After analyzing, I found the correlation between all colums and plotted the graph to find out relation between different columns using heatmap.
+
+3.Then I spillted the data set into train set and test set. I will use train set to create and train the model and test test to further test and found the accuracy at the end.
+
+4.I applied Linear Regression and fitted the data set and then did the prediction on the test set.
+
+5.I scatter the prediction of Y (student condition) as per the input X_test using matplot library and then plotted using seaborn library.
+
+6.At last I found the accuracy of the prediction.
+
 # Machine learning algos used:
 
 - linear regression:
